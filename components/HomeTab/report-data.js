@@ -1,0 +1,60 @@
+const reportData = [
+  {
+    id: 1,
+    company: "ΚΑΡΕΝΤΑ Α.Ε.",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Χαλασμένο καζανάκι",
+    date: "20-06-2023",
+    time: "12:30",
+  },
+  {
+    id: 2,
+    company: "Company ABC",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Απολύμανση",
+    date: "24-08-2023",
+    time: "11:50",
+  },
+  {
+    id: 3,
+    company: "Company DEF",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Τουαλέτες και Κουζίνα",
+    date: "10-03-2023",
+    time: "12:56",
+  },
+  {
+    id: 4,
+    company: "Company GHI",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Χαλασμένο καζανάκι",
+    date: "05-01-2023",
+    time: "12:00",
+  },
+  {
+    id: 5,
+    company: "Company KLM",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Καθαρισμός Γραφείων",
+    date: "20-12-2023",
+    time: "08:30",
+  },
+  {
+    id: 6,
+    company: "Company NOP",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Καθαρισμός εσωτερικών γραφείων",
+    date: "21-06-2023",
+    time: "09:30",
+  },
+  {
+    id: 7,
+    company: "Company QRS",
+    location: "Κεντρικά - Ανοιχτά Γραφεία Ισογείου",
+    problem: "Καθαρισμός εσωτερικών γραφείων",
+    date: "10-10-2023",
+    time: "10:30",
+  },
+];
+
+export default reportData;
